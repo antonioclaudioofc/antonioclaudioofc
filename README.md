@@ -14,9 +14,7 @@ Sou graduado em Ciência da Computação pelo Instituto Federal do Maranhão (IF
 
 Tenho foco na construção de APIs, sistemas escaláveis e boas práticas de engenharia de software. Já desenvolvi plataformas voltadas para segurança alimentar, gestão de arenas esportivas e participei de projetos de pesquisa aplicados à contabilidade no setor público.
 
-Atualmente estou aprofundando meus estudos em arquitetura de software, mensageria e sistemas distribuídos, utilizando ferramentas como Docker, Kubernetes e RabbitMQ.
-
-Busco oportunidades como Desenvolvedor Backend ou Full Stack para evoluir como engenheiro de software, contribuindo com soluções robustas, bem estruturadas e orientadas a resultados.
+Atualmente estou aprofundando meus estudos em arquitetura de software, mensageria e sistemas distribuídos, utilizando ferramentas como Docker e RabbitMQ.
 
 ---
 
@@ -51,20 +49,10 @@ Busco oportunidades como Desenvolvedor Backend ou Full Stack para evoluir como e
 ### 🔹 Arquitetura e DevOps
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=ffffff)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=ffffff)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=ffffff)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=000000)
 
 ---
 
-## 💡 Projetos em destaque
-
-- ⚽ Arena Manager – Plataforma para gestão de arenas esportivas, com regras de negócio, permissões e arquitetura modular.
-- 📬 Notify Me API – Serviço dedicado de notificações por e-mail, com foco em desacoplamento e escalabilidade.
-- 🎉 AniverLembre – Sistema de lembretes e notificações automatizadas.
-
----
-
 ## 🤝 Vamos conectar?
-
-- 💼 Aberto a oportunidades como Backend ou Full Stack  
+ 
 - 📩 Entre em contato pelo <a href="https://www.linkedin.com/in/antonioclaudioofc/" target="_blank">LinkedIn</a> ou <a href="mailto:claudioalvesdev@gmail.com">E-mail</a>
